@@ -1,7 +1,7 @@
 Package: dominatRData
 Type: Package
 Title: Datasets for R Package dominatR 
-Version: 0.99.1
+Version: 1.0.0
 Authors@R: c(
     person(
     given = "Simon", 
